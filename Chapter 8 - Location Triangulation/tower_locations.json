@@ -1,0 +1,6 @@
+{"towers": [
+    {"status":"ok","balance":4984,"lat":47.617643,"lon":-122.349093,"accuracy":395,"address":"3rd Avenue, South Lake Union, Belltown, Seattle, King County, Washington, 98121, USA"},
+    {"status":"ok","balance":4983,"lat":47.618343,"lon":-122.348393,"accuracy":367,"address":"Denny Way, South Lake Union, Belltown, Seattle, King County, Washington, 98121, USA"},
+    {"status":"ok","balance":4982,"lat":47.618675,"lon":-122.348783,"accuracy":686,"address":"Denny Way, South Lake Union, Belltown, Seattle, King County, Washington, 98109, USA"},
+    {"status":"ok","balance":4981,"lat":47.623086,"lon":-122.349143,"accuracy":397,"address":"4th Avenue North, South Lake Union, Lower Queen Anne, Seattle, King County, Washington, 98109, USA"}
+]}
