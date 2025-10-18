@@ -49,7 +49,7 @@ if __name__ == '__main__':
         # setup global raw save file if one is defined
         if opts.raw_file is not None:
             save_raw = opts.raw_file
-        packets = sniff(filter="ip", count=c)
+        packets = sniff(filter="ip", count=c, iface=opts.iface)
         network_graph = ext.pcap_graph(packets)
         ext.save_graph(network_graph, opts.graph_file)
         nx.draw_shell(network_graph, node_size=100)   
